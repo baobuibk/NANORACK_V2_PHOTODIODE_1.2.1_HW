@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U2-18
+Removed Pin From Net: NetName=GND Pin=U5-18
+Removed Pin From Net: NetName=GND Pin=U6-18
+Removed Pin From Net: NetName=GND Pin=U7-18
+Removed Pin From Net: NetName=GND Pin=U8-18
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Add Component: Footprint Not Found CN-SMD-0603
+Added Component: Designator=C48(CAP_TANT_1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C49(CAP_TANT_1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C50(CAP_TANT_1206)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "POLAR0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U11(SO8)
+Add component (AddParameter): Name = "Creator"; Value = "Nguyen Ba Bien"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C37-1
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C43-1
+Add Pin To Net: Unknown Pin: Pin C45-1
+Add Pin To Net: Unknown Pin: Pin C47-1
+Added Pin To Net: NetName=+5 Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C48-2
+Added Pin To Net: NetName=GND Pin=C50-1
+Added Pin To Net: NetName=GND Pin=U11-3
+Added Pin To Net: NetName=GND Pin=U11-6
+Added Pin To Net: NetName=+5 Pin=U11-8
+Added Pin To Net: NetName=-5 Pin=C50-2
+Added Pin To Net: NetName=-5 Pin=U1-18
+Added Pin To Net: NetName=-5 Pin=U2-18
+Added Pin To Net: NetName=-5 Pin=U5-18
+Added Pin To Net: NetName=-5 Pin=U6-18
+Added Pin To Net: NetName=-5 Pin=U7-18
+Added Pin To Net: NetName=-5 Pin=U8-18
+Added Pin To Net: NetName=-5 Pin=U11-5
+Added Net: Name=-5
+Added Net: Name=NetC36_1
+Added Net: Name=NetC38_1
+Added Net: Name=NetC40_1
+Added Net: Name=NetC42_1
+Added Net: Name=NetC44_1
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC49_1 Pin=C49-1
+Added Pin To Net: NetName=NetC49_1 Pin=U11-2
+Added Net: Name=NetC49_1
+Added Pin To Net: NetName=NetC49_2 Pin=C49-2
+Added Pin To Net: NetName=NetC49_2 Pin=U11-4
+Added Net: Name=NetC49_2
+Add Class Member: Failed to add class member : Component C36 0.22uF/25V
+Add Class Member: Failed to add class member : Component C37 0.22uF/25V
+Add Class Member: Failed to add class member : Component C38 0.22uF/25V
+Add Class Member: Failed to add class member : Component C39 0.22uF/25V
+Add Class Member: Failed to add class member : Component C40 0.22uF/25V
+Add Class Member: Failed to add class member : Component C41 0.22uF/25V
+Add Class Member: Failed to add class member : Component C42 0.22uF/25V
+Add Class Member: Failed to add class member : Component C43 0.22uF/25V
+Add Class Member: Failed to add class member : Component C44 0.22uF/25V
+Add Class Member: Failed to add class member : Component C45 0.22uF/25V
+Add Class Member: Failed to add class member : Component C46 0.22uF/25V
+Add Class Member: Failed to add class member : Component C47 0.22uF/25V
+Added Member To Class: ClassName=POWER SWITCH AND LDO Member=Component C48 10uF 16V
+Added Member To Class: ClassName=POWER SWITCH AND LDO Member=Component C49 10uF 16V
+Added Member To Class: ClassName=POWER SWITCH AND LDO Member=Component C50 10uF 16V
+Added Member To Class: ClassName=POWER SWITCH AND LDO Member=Component U11 ICL7660

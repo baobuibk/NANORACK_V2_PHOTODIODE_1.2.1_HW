@@ -1,0 +1,60 @@
+Added Component: Designator=C36(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C37(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C38(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C39(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C40(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C41(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C42(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C43(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C44(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C45(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C46(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Component: Designator=C47(CN-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "103"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC36_1 Pin=C36-1
+Added Pin To Net: NetName=-5 Pin=C36-2
+Added Pin To Net: NetName=GND Pin=C37-1
+Added Pin To Net: NetName=NetC36_1 Pin=C37-2
+Added Pin To Net: NetName=NetC38_1 Pin=C38-1
+Added Pin To Net: NetName=-5 Pin=C38-2
+Added Pin To Net: NetName=GND Pin=C39-1
+Added Pin To Net: NetName=NetC38_1 Pin=C39-2
+Added Pin To Net: NetName=NetC40_1 Pin=C40-1
+Added Pin To Net: NetName=-5 Pin=C40-2
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=NetC40_1 Pin=C41-2
+Added Pin To Net: NetName=NetC42_1 Pin=C42-1
+Added Pin To Net: NetName=-5 Pin=C42-2
+Added Pin To Net: NetName=GND Pin=C43-1
+Added Pin To Net: NetName=NetC42_1 Pin=C43-2
+Added Pin To Net: NetName=NetC44_1 Pin=C44-1
+Added Pin To Net: NetName=-5 Pin=C44-2
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=NetC44_1 Pin=C45-2
+Added Pin To Net: NetName=NetC46_1 Pin=C46-1
+Added Pin To Net: NetName=-5 Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=NetC46_1 Pin=C47-2
+Added Member To Class: ClassName=PHOTODIODE Member=Component C36 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C37 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C38 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C39 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C40 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C41 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C42 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C43 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C44 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C45 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C46 0.22uF/25V
+Added Member To Class: ClassName=PHOTODIODE Member=Component C47 0.22uF/25V
